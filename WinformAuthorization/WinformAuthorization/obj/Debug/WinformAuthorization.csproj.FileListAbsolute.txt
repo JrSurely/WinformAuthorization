@@ -1,0 +1,13 @@
+c:\users\zhoufugui\documents\visual studio 2015\Projects\WinformAuthorization\WinformAuthorization\bin\Debug\WinformAuthorization.exe.config
+c:\users\zhoufugui\documents\visual studio 2015\Projects\WinformAuthorization\WinformAuthorization\obj\Debug\WinformAuthorization.csprojResolveAssemblyReference.cache
+c:\users\zhoufugui\documents\visual studio 2015\Projects\WinformAuthorization\WinformAuthorization\obj\Debug\WinformAuthorization.Form1.resources
+c:\users\zhoufugui\documents\visual studio 2015\Projects\WinformAuthorization\WinformAuthorization\obj\Debug\WinformAuthorization.Properties.Resources.resources
+c:\users\zhoufugui\documents\visual studio 2015\Projects\WinformAuthorization\WinformAuthorization\obj\Debug\WinformAuthorization.csproj.GenerateResource.Cache
+c:\users\zhoufugui\documents\visual studio 2015\Projects\WinformAuthorization\WinformAuthorization\bin\Debug\WinformAuthorization.exe
+c:\users\zhoufugui\documents\visual studio 2015\Projects\WinformAuthorization\WinformAuthorization\bin\Debug\WinformAuthorization.pdb
+c:\users\zhoufugui\documents\visual studio 2015\Projects\WinformAuthorization\WinformAuthorization\obj\Debug\WinformAuthorization.exe
+c:\users\zhoufugui\documents\visual studio 2015\Projects\WinformAuthorization\WinformAuthorization\obj\Debug\WinformAuthorization.pdb
+c:\users\zhoufugui\documents\visual studio 2015\Projects\WinformAuthorization\WinformAuthorization\obj\Debug\WinformAuthorization.PlayForm.resources
+D:\study\WinformAuthorization\WinformAuthorization\WinformAuthorization\bin\Debug\WinformAuthorization.exe.config
+D:\study\WinformAuthorization\WinformAuthorization\WinformAuthorization\obj\Debug\WinformAuthorization.exe
+D:\study\WinformAuthorization\WinformAuthorization\WinformAuthorization\obj\Debug\WinformAuthorization.pdb
